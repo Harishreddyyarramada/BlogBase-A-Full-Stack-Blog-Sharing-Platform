@@ -42,7 +42,7 @@ This project demonstrates real-world full-stack development using modern fronten
 ---
 
 ## 📂 Project Structure
-
+```bash
 BlogBase-A-Full-Stack-Blog-Sharing-Platform/
 │
 ├── Client/ # React frontend
@@ -60,7 +60,7 @@ BlogBase-A-Full-Stack-Blog-Sharing-Platform/
 ├── .gitignore
 ├── .env.example
 └── README.md
-
+```
 
 ---
 
